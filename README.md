@@ -1,0 +1,2 @@
+# cloaking.php
+SELAMAT DATANG !!
