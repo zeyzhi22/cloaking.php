@@ -9,3 +9,5 @@
             <li style="color: #000000;"><a href="https://unpepabri.ac.id/">https://unpepabri.ac.id/</a></li>
             <li style="color: #000000;"><a href="https://emtri.it.com/">https://emtri.it.com/</a></li>
             <li style="color: #000000;"><a href="https://imguaika.com/">https://imguaika.com/</a></li>
+            <li style="color: #000000;"><a href="https://deevalemon.it.com/">https://deevalemon.it.com/</a></li>
+            <li style="color: #000000;"><a href="https://acquaaerosoles.com/">https://acquaaerosoles.com/</a></li>
