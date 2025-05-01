@@ -11,3 +11,5 @@
             <li style="color: #000000;"><a href="https://imguaika.com/">https://imguaika.com/</a></li>
             <li style="color: #000000;"><a href="https://deevalemon.it.com/">https://deevalemon.it.com/</a></li>
             <li style="color: #000000;"><a href="https://acquaaerosoles.com/">https://acquaaerosoles.com/</a></li>
+            <li style="color: #000000;"><a href="https://bag-umum.fakfakkab.go.id/">https://bag-umum.fakfakkab.go.id/</a></li>
+            <li style="color: #000000;"><a href="https://www.veteransnewsreport.com/index.html">https://www.veteransnewsreport.com/index.html</a></li>
